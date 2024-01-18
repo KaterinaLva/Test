@@ -1,2 +1,5 @@
 # Hollo, World!
-## Я учусь в Нетологии.
+
+I study in Netology
+
+18.01.2024
